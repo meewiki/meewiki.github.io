@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://meewiki.github.io/sitemap.xml

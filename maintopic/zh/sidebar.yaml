@@ -1,5 +1,5 @@
 items:
--   label: 网站关于
+-   label: 网站介绍
     file: README.md
 -   label: 虚拟媒介
     file: virtual.md

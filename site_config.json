@@ -1,11 +1,11 @@
 {
-    "site_name": "teedoc",
+    "site_name": "meewiki",
     "site_slogon": "happy to write",
     "site_root_url": "/",
-    "site_domain": "teedoc.neucrack.com",
+    "site_domain": "meewiki.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/teedoc/teedoc.github.io/blob/main",
+    "source": "https://github.com/meewiki/meewiki.github.io/blob/main",
     "route": {
         "docs": {
             "/get_started/zh/": "docs/get_started/zh",

@@ -1,0 +1,23 @@
+items:
+-   label: 网站关于
+    file: README.md
+-   label: 虚拟媒介
+    file: virtual.md
+    items:
+    -   label: 慢脚文化
+        file: virtual\slowfoot.md
+    -   label: 性别对立
+        file: ..\..\..\pages\index\zh\404.md
+    -   label: 黑化家族
+        file: ..\..\..\pages\index\zh\404.md
+    -   label: 年龄歧视
+        file: ..\..\..\pages\index\zh\404.md
+    -   label: 小孩帝国
+        file: ..\..\..\pages\index\zh\404.md
+-   label: 现实媒介
+    file: reality.md
+    items:
+    -   label: 烟卡
+        file: ..\..\..\pages\index\zh\404.md
+    -   label: 保守派
+        file: ..\..\..\pages\index\zh\404.md

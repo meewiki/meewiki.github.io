@@ -7,12 +7,6 @@
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://meewiki.github.io/maintopic/zh/reality.html</loc>
-            <lastmod>2025-02-19</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
             <loc>https://meewiki.github.io/maintopic/zh/virtual/agekiss.html</loc>
             <lastmod>2025-02-21</lastmod>
             <changefreq>weekly</changefreq>
@@ -38,12 +32,6 @@
         </url>
         <url>
             <loc>https://meewiki.github.io/maintopic/zh/virtual/slowfoot.html</loc>
-            <lastmod>2025-02-19</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://meewiki.github.io/maintopic/zh/virtual.html</loc>
             <lastmod>2025-02-19</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>

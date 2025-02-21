@@ -8,7 +8,7 @@ items:
     -   label: 慢脚文化
         file: virtual/slowfoot.md
     -   label: 性别对立
-        file: ../../../pages/index/zh/404.md
+        file: virtual/sexfighting.md
     -   label: 黑化家族
         file: virtual/kurokakazoku.md
     -   label: 年龄歧视
@@ -23,7 +23,11 @@ items:
         file: ../../../pages/index/zh/404.md
     -   label: 奥特曼卡片
         file: ../../../pages/index/zh/404.md
--   label: 视频风格
+-   label: 衍生产物
+    items:
+    -   label: 营销号
+        file: classes/yingxiaohao.md
+-   label: 视频类型
     items:
     -   label: 伪纪录片
         file: ../../../pages/index/zh/404.md

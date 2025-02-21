@@ -1,6 +1,8 @@
 items:
 -   label: 网站介绍
     file: README.md
+-   label: 模板介绍
+    file: mubanshili.md
 -   label: 虚拟媒介
     items:
     -   label: 慢脚文化

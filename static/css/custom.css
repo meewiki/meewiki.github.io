@@ -1,3 +1,9 @@
+@import url('https://static.zeoseven.com/zsft/224/main/result.css');
+
+body {
+   font-family: "Mizuki-Gothic";
+   font-weight: normal;
+}
 
 #navbar h2 {
     color: #4caf7d;

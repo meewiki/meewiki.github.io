@@ -8,7 +8,7 @@ items:
     items:
     -   label: 慢脚文化
         file: virtual/slowfoot.md
-    -   label: 性别对立
+    -   label: 性别对立（未完成）
         file: virtual/sexfighting.md
     -   label: 年龄歧视
         file: virtual/agekiss.md
@@ -18,9 +18,9 @@ items:
         file: virtual/baoshoupie.md
 -   label: 现实媒介
     items:
-    -   label: 烟卡
+    -   label: 烟卡（未完成）
         file: ../../../pages/index/zh/404.md
-    -   label: 奥特曼卡片
+    -   label: 奥特曼卡片（未完成）
         file: ../../../pages/index/zh/404.md
 -   label: 梦回2018
     items:
@@ -32,5 +32,5 @@ items:
         file: classes/yingxiaohao.md
 -   label: 视频类型
     items:
-    -   label: 伪纪录片
+    -   label: 伪纪录片（未完成）
         file: ../../../pages/index/zh/404.md

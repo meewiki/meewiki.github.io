@@ -3,25 +3,28 @@ items:
     file: README.md
 -   label: 编写规范
     file: mubanshili.md
--   label: 虚拟媒介
+-   label: 思想文化
     collapsed: false
     items:
     -   label: 慢脚文化
         file: virtual/slowfoot.md
-    -   label: 性别对立（未完成）
-        file: virtual/sexfighting.md
-    -   label: 年龄歧视
-        file: virtual/agekiss.md
     -   label: 小孩帝国
         file: virtual/childcountry.md
-    -   label: 网络保守派
-        file: virtual/baoshoupie.md
--   label: 现实媒介
+-   label: 实物潮流
     items:
     -   label: 烟卡（未完成）
         file: ../../../pages/index/zh/404.md
     -   label: 奥特曼卡片（未完成）
         file: ../../../pages/index/zh/404.md
+-   label: 意识形态
+    collapsed: false
+    items:
+    -   label: 年龄歧视
+        file: virtual/agekiss.md
+    -   label: 性别对立（未完成）
+        file: virtual/sexfighting.md
+    -   label: 网络保守派
+        file: virtual/baoshoupie.md
 -   label: 梦回2018
     items:
     -   label: 黑化家族

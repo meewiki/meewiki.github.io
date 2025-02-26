@@ -10,12 +10,6 @@ items:
         file: virtual/slowfoot.md
     -   label: 小孩帝国
         file: virtual/childcountry.md
--   label: 实物潮流                
-    items:
-    -   label: 烟卡（未完成）
-        file: ../../../pages/index/zh/404.md
-    -   label: 奥特曼卡片（未完成）
-        file: ../../../pages/index/zh/404.md
 -   label: 意识形态
     collapsed: false
     items:

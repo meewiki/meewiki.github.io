@@ -3,6 +3,8 @@ items:
     file: README.md
 -   label: 编写规范
     file: mubanshili.md
+-   label: 站长歌单
+    file: songlist.md
 -   label: 思想文化
     collapsed: false
     items:

@@ -1,4 +1,5 @@
 User-agent: *
 Allow: .html$
+Allow: .xml$
 Disallow: /*
 Sitemap: https://meewiki.github.io/sitemap.xml

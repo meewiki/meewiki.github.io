@@ -17,8 +17,6 @@ items:
     items:
     -   label: 年龄歧视
         file: virtual/agekiss.md
-    -   label: 性别对立（未完成）
-        file: virtual/sexfighting.md
     -   label: 网络保守派
         file: virtual/baoshoupie.md
 -   label: 梦回2018

@@ -37,18 +37,6 @@
             <priority>1.0</priority>
         </url>
         <url>
-            <loc>https://meewiki.github.io/maintopic/zh/virtual/agekiss.html</loc>
-            <lastmod>2025-03-10</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
-            <loc>https://meewiki.github.io/maintopic/zh/virtual/baoshoupie.html</loc>
-            <lastmod>2025-03-10</lastmod>
-            <changefreq>weekly</changefreq>
-            <priority>1.0</priority>
-        </url>
-        <url>
             <loc>https://meewiki.github.io/maintopic/zh/virtual/childcountry.html</loc>
             <lastmod>2025-03-01</lastmod>
             <changefreq>weekly</changefreq>
@@ -57,6 +45,18 @@
         <url>
             <loc>https://meewiki.github.io/maintopic/zh/virtual/kurokakazoku.html</loc>
             <lastmod>2025-03-05</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://meewiki.github.io/maintopic/zh/virtual/agekiss.html</loc>
+            <lastmod>2025-03-10</lastmod>
+            <changefreq>weekly</changefreq>
+            <priority>1.0</priority>
+        </url>
+        <url>
+            <loc>https://meewiki.github.io/maintopic/zh/virtual/baoshoupie.html</loc>
+            <lastmod>2025-03-10</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>

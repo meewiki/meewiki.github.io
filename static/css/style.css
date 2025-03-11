@@ -5,8 +5,37 @@ body {
    font-weight: normal;
 }
 
+.dark blockquote {
+    background-color: #363f44;
+}
+
+blockquote {
+    background-color: #caecff;
+}
+
+.dark th {
+    font-weight: 700;
+    background-color: #0063a5;
+    color: white;
+    border: 2px solid #0985d8;
+}
+
+.dark blockquote.spoiler {
+    border-left: 5px solid #ff2525;
+    background-color: #ff7070;
+}
+
+blockquote.spoiler {
+    border-left: 5px solid #ff5050;
+    background-color: #ffc0c0;
+}
+
+#content_body a, #content_body a:visited {
+    color: #00aeff;
+}
+
 #navbar h2 {
-    color: #4caf7d;
+    color: #55b3f2;
 }
 
 #home_page h1 {
@@ -14,7 +43,7 @@ body {
     font-size: 4.5em;
     text-align: center;
     font-family: sans-serif;
-    color: #4caf7d;
+    color: #55b3f2;
 }
 #home_page h3 {
     width: 100%;
@@ -27,7 +56,7 @@ body {
 }
 #home_page .big_btn a {
     padding: 2em;
-    background-color: #4caf7d;
+    background-color: #55b3f2;
     font-size: 1.3em;
     border-radius: 10px;
     transition: 0.4s;
@@ -38,12 +67,12 @@ body {
     box-shadow: 6px 4px 20px #0000002e;
 }
 .dark #home_page .big_btn a {
-    background-color: #1b5638;
-    color: #d2f9e5;
+    background-color: #006cb5;
+    color: #d8f3ff;
 }
 .dark #home_page .big_btn a:hover {
     box-shadow: 6px 4px 20px #000000;
-    background-color: #2a7d53;
+    background-color: #4999cf;
 }
 
 @media screen and (max-width: 900px) {

@@ -1,29 +1,24 @@
 items:
 -   label: 网站介绍
     file: README.md
+-   label: 网站相关
 -   label: 编写规范
     file: mubanshili.md
 -   label: 站长歌单
     file: songlist.md
 -   label: 思想文化
-    collapsed: false
-    items:
-    -   label: 慢脚文化
-        file: virtual/slowfoot.md
-    -   label: 小孩帝国
-        file: virtual/childcountry.md
+-   label: 慢脚文化
+    file: virtual/slowfoot.md
+-   label: 小孩帝国
+    file: virtual/childcountry.md
 -   label: 意识形态
-    collapsed: false
-    items:
-    -   label: 年龄歧视
-        file: virtual/agekiss.md
-    -   label: 网络保守派
-        file: virtual/baoshoupie.md
+-   label: 年龄歧视
+    file: virtual/agekiss.md
+-   label: 网络保守派
+    file: virtual/baoshoupie.md
 -   label: 梦回2018
-    items:
-    -   label: 黑化家族
-        file: virtual/kurokakazoku.md
+-   label: 黑化家族
+    file: virtual/kurokakazoku.md
 -   label: 衍生产物
-    items:
-    -   label: 营销号
-        file: classes/yingxiaohao.md
+-   label: 营销号
+    file: classes/yingxiaohao.md
